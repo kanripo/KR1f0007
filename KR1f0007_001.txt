@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孝經大義
-#+DATE: 2015-09-23 09:40:47
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-24 22:18:06.933259
+#+PROPERTY: ID KR1f0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 孝經大義
 <pb:KR1f0007_WYG_001-1a>¶
 欽定四庫全書¶
 　孝經大義(朱子刊/誤古文)¶
@@ -470,4 +472,3 @@
 　¶
 　¶
 　孝經大義¶
-

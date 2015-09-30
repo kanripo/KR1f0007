@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孝經大義
-#+DATE: 2015-09-23 09:40:47
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:18:06.919148
+#+PROPERTY: ID KR1f0007
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 序
 <pb:KR1f0007_WYG_000-1a>¶
 欽定四庫全書　　　　　經部六¶
 　孝經大義序　　　　　　孝經類¶
@@ -55,6 +57,7 @@
 行仁之本也語曰如有王者必世而後仁愚何幸身親¶
 見之歲在乙巳陽復之月前進士武夷熊禾序旹大徳¶
 之九年也¶
+#+PROPERTY: JUAN 提要
 <pb:KR1f0007_WYG_000-4a>¶
 欽定四庫全書¶
 　孝經大義¶
@@ -85,4 +88,3 @@
 <pb:KR1f0007_WYG_000-5b>¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-
